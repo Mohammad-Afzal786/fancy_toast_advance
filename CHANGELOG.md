@@ -1,0 +1,13 @@
+## 1.0.0 - 2025-08-01
+- Initial release 🎉
+- Added `FancyToast.show()` method
+- Customizable parameters:
+  - Message text
+  - Icon
+  - Background color
+  - Text color
+  - Duration
+  - Border radius
+  - Elevation (shadow)
+  - Position (top / bottom)
+- Smooth fade animation included
